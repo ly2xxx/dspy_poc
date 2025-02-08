@@ -1,0 +1,63 @@
+[34m[2025-02-08T23:25:48.421825][0m
+
+[31mSystem message:[0m
+
+Your input fields are:
+1. `topic` (str)
+2. `section_heading` (str)
+3. `section_subheadings` (list[str])
+
+Your output fields are:
+1. `reasoning` (str)
+2. `content` (str): markdown-formatted section
+
+All interactions will be structured in the following way, with the appropriate values filled in.
+
+[[ ## topic ## ]]
+{topic}
+
+[[ ## section_heading ## ]]
+{section_heading}
+
+[[ ## section_subheadings ## ]]
+{section_subheadings}
+
+[[ ## reasoning ## ]]
+{reasoning}
+
+[[ ## content ## ]]
+{content}
+
+[[ ## completed ## ]]
+
+In adhering to this structure, your objective is: 
+        Draft a top-level section of an article.
+
+
+[31mUser message:[0m
+
+[[ ## topic ## ]]
+2002 FIFA World Cup
+
+[[ ## section_heading ## ]]
+## Legacy
+
+[[ ## section_subheadings ## ]]
+["### Impact of the tournament on football", "### Changes to the World Cup format"]
+
+Respond with the corresponding output fields, starting with the field `[[ ## reasoning ## ]]`, then `[[ ## content ## ]]`, and then ending with the marker for `[[ ## completed ## ]]`.
+
+
+[31mResponse:[0m
+
+[32m[[ ## reasoning ## ]]
+The 2002 FIFA World Cup had a lasting impact on football, both in terms of its influence on the sport's global popularity and its effects on the tournament's format.
+
+[[ ## content ## ]]
+### Impact of the tournament on football
+The 2002 FIFA World Cup was a significant event in the history of football, with an estimated 3.5 billion people watching the tournament worldwide. The increased global interest in the World Cup helped to popularize the sport, leading to a growth in participation and viewership.
+
+### Changes to the World Cup format
+The 2002 FIFA World Cup also saw changes to the tournament's format, including the introduction of a new qualification system and the expansion of the number of teams participating. These changes aimed to make the tournament more competitive and exciting for fans.
+
+[[ ## completed ## ]][0m

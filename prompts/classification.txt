@@ -1,0 +1,52 @@
+
+
+
+
+[34m[2025-02-08T23:14:32.488538][0m
+
+[31mSystem message:[0m
+
+Your input fields are:
+1. `sentence` (str)
+
+Your output fields are:
+1. `sentiment` (Literal['positive', 'negative', 'neutral'])
+2. `confidence` (float)
+
+All interactions will be structured in the following way, with the appropriate values filled in.
+
+Inputs will have the following structure:
+
+[[ ## sentence ## ]]
+{sentence}
+
+Outputs will be a JSON object with the following fields.
+
+{
+  "sentiment": "{sentiment}        # note: the value you produce must be one of: positive; negative; neutral",
+  "confidence": "{confidence}        # note: the value you produce must be a single float value"
+}
+
+In adhering to this structure, your objective is: 
+        Classify sentiment of a given sentence.
+
+
+[31mUser message:[0m
+
+[[ ## sentence ## ]]
+This book was super fun to read, though not the last chapter.
+
+Respond with a JSON object in the following order of fields: `sentiment` (must be formatted as a valid Python Literal['positive', 'negative', 'neutral']), then `confidence` (must be formatted as a valid Python float).
+
+
+[31mResponse:[0m
+
+[32m{
+  "sentiment": "neutral",
+  "confidence": 0.75
+}[0m
+
+
+
+
+
