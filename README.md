@@ -1,5 +1,4 @@
-# browser-use_poc
-browser-use poc
+# DSPy_poc
 
 Create a virtual environment :
 ```bash
