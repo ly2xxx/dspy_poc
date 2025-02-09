@@ -1,1 +1,2 @@
 dspy==2.6.2
+playwright==1.42.0

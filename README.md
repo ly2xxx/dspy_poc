@@ -11,6 +11,7 @@ Install the required dependencies in the virtual environment :
 pip install -r requirements.txt
 ```
 
+# Use ProgramOfThought
 To use ProgramOfThought need to install Deno
 For Windows (PowerShell):
 ```bash
