@@ -1,28 +1,26 @@
-from playwright.sync_api import sync_playwright
+import asyncio
+from playwright.async_api import async_playwright
 
-with sync_playwright() as p:
-    # Create a browser instance
-    browser = p.chromium.launch(headless=False)
-    
-    # Navigate to the webpage
-    page = browser.new_page()
-    page.goto("https://www.livescore.com/en/football/england/fa-cup-round-4/blackburn-rovers-vs-wolves/1439491/")
-    
-    # Parse the HTML content of the webpage
-    html = page.content()
-    
-    # Extract key information from the parsed HTML
-    team1_name = page.query_selector("#match-name").text_content().strip()
-    team2_name = page.query_selector("#opponent-name").text_content().strip()
-    score = page.query_selector(".score").text_content().strip()
-    date = page.query_selector("#date").text_content().strip()
-    
-    # Print the extracted key information
-    print(f"Team 1: {team1_name}")
-    print(f"Team 2: {team2_name}")
-    print(f"Score: {score}")
-    print(f"Date: {date}")
+async def analyze_webpage():
+    async with async_playwright() as p:
+        browser = await p.chromium.launch()
+        page = await browser.new_page()
+        await page.goto("https://www.betfair.com/betting/football/brazilian-mato-grossense-matches/ce-operario-varzea-grandense-v-primavera-mt/e-34019122")
 
-# Evaluate to the correct value for answer
-answer = f"{team1_name} vs {team2_name}, Score: {score}, Date: {date}"
-print(answer)
+        # Extract team names
+        home_team = await page.text_content('xpath=//div[@class="event__participant event__participant--home"]')
+        away_team = await page.text_content('xpath=//div[@class="event__participant event__participant--away"]')
+
+        # Extract match details
+        match_details = await page.text_content('xpath=//div[@class="event__title"]')
+
+        # Print the extracted information
+        print(f"Home Team: {home_team}")
+        print(f"Away Team: {away_team}")
+        print(f"Match Details: {match_details}")
+
+        # Close the browser
+        await browser.close()
+
+# Run the analysis
+asyncio.run(analyze_webpage())
