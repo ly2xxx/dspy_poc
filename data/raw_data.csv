@@ -1,0 +1,1001 @@
+text,label
+What if there is an error on the exchange rate?,card_payment_wrong_exchange_rate
+"There must have been a mistake, why was I charged an extra pound?",extra_charge_on_statement
+If I find a card I lost do I need to dispose of it? Or can I re-active the card and continue to use it?,card_linking
+The exchange rate for my electronic payment is incorrect.,card_payment_wrong_exchange_rate
+"I'd lke my card reactivated, I was thinking it was misplaced but I discovered when I woke up that I had left it in my coat.",card_linking
+How is the current exchange rate?,exchange_rate
+A pending charge of 1L appears on my statement.  Please explain as I have not made a purchase for that amount,extra_charge_on_statement
+An item I bought had the wrong exchange rate applied.,card_payment_wrong_exchange_rate
+I thought I would have received my new card at this point.,card_arrival
+"My new card isn't in my app, how do I get it in there?",card_linking
+What fiat currencies are used for holdings?,fiat_currency_support
+How can I tell what foreign exchange rate I will get?,exchange_rate
+"Hey, I have my card, how do I get it to show in the app?",card_linking
+Which fiat currencies can I use through this app?,fiat_currency_support
+What is the foreign exchange rate you will apply?,exchange_rate
+I am being charged a pound out of nowhere. What is this?,extra_charge_on_statement
+What fiat currencies do you support?,fiat_currency_support
+How come I was charged a transaction of $1?,extra_charge_on_statement
+How do I know what exchange rate I will get?,exchange_rate
+When will my new card be delivered?,card_arrival
+I think the rate that was applied to my purchase using foreign currency is wrong. Help!,card_payment_wrong_exchange_rate
+Should my cash withdrawal still be pending?,pending_cash_withdrawal
+What is the $1 transaction on my account?,extra_charge_on_statement
+Do you have info about the card on delivery?,card_arrival
+Why would a cash withdrawal still be pending?,pending_cash_withdrawal
+"Could I reactivate my card please, I couldn't find it but it turns out it was in my jacket pocket.",card_linking
+How will I know what the exchange rate is?,exchange_rate
+"There is an extra $1 charge on my statement, why is that?",extra_charge_on_statement
+Where is the card I ordered 2 weeks ago?,card_arrival
+How can I periodically check the delivery of the card you sent?,card_arrival
+What is the source of your exchange rates?,exchange_rate
+"Last Saturday, I made a payment and the exchange rate was wrong.  I was charged too much.",card_payment_wrong_exchange_rate
+"I made an international purchase, but the exchange rate was wrong",card_payment_wrong_exchange_rate
+"My card was declined and I did not receive money from the ATM earlier, yet it show on my account that it is pending.",pending_cash_withdrawal
+I pulled cash from the ATM earlier. Why is it still pending if I already have the cash?,pending_cash_withdrawal
+€1 was in my statement as an extra fee.,extra_charge_on_statement
+I was issued a new card a week ago but still haven't received it. How long will it be until I receive it?,card_arrival
+I tried to get some money but the machine was not working .The transaction still seems in progress! Can you please check what's going on.I don't want to be charged for money that I did not received.,pending_cash_withdrawal
+How does the exchange rate work?,exchange_rate
+My cash withdrawal isnt showing on my account,pending_cash_withdrawal
+What currencies are supported?,fiat_currency_support
+"If I was travelling abroad, would I be able to hold currencies in euros?",fiat_currency_support
+Is it possible to track the card you sent me?,card_arrival
+I got a new card and can't find where to link it.,card_linking
+Why does my statement show a $1 charge on my account?,extra_charge_on_statement
+I need to know what flat currencies you support for holding and exchange.,fiat_currency_support
+"I just checked my statement and saw a $1 charge, why is it there?",extra_charge_on_statement
+Are all European currencies available for holding and exchange?,fiat_currency_support
+Can you tell me what this fee is on my statement?,extra_charge_on_statement
+What other fiat currencies can I use?,fiat_currency_support
+Tell me the currencies that you support.,fiat_currency_support
+How long does it take for cash withdrawals to hit my account?,pending_cash_withdrawal
+How can I add a new card?,card_linking
+I have been charged way to much so something is apparently wrong with my exchange. I changed Russian Ruble into UK pounds.,card_payment_wrong_exchange_rate
+I didn't receive the correct exchange rate for an item that I bought.,card_payment_wrong_exchange_rate
+The exchange rate you are using is really bad. This can't possibly be the official interbank exchange rate.,card_payment_wrong_exchange_rate
+How do you come up with your exchange rate,exchange_rate
+I am still waiting for my card.,card_arrival
+My card never arrived.,card_arrival
+My statement shows an extra fee - what is it?,extra_charge_on_statement
+I'm expecting to see a cash withdrawal but I'm still waiting.,pending_cash_withdrawal
+I have been charged a pound for something that appears on my statement,extra_charge_on_statement
+My foreign currency exchange has been applied incorrectly.,card_payment_wrong_exchange_rate
+I bought an item and the exchange rate was wrong.,card_payment_wrong_exchange_rate
+How much longer is it going to take to get my new card?,card_arrival
+"I found my card in my jacket this morning, so can I reactivate it?",card_linking
+Why is the exchange rate on my card payment different than I expected?,card_payment_wrong_exchange_rate
+What is this €1 charge?,extra_charge_on_statement
+help me link my card,card_linking
+Why does my account show as pending a cash withdrawal from the ATM that I have already made?,pending_cash_withdrawal
+"I want to reactivate my card, I thought I had lost it but found it again in my jacket this morning.",card_linking
+Can I track when my card will be delivered?,card_arrival
+"My cash withdrawal is showing as pending, why?",pending_cash_withdrawal
+I don't understand why there is an extra €1 fee in my statement.,extra_charge_on_statement
+"I would like to track a card sent to me, how do I do that?",card_arrival
+How do I make my card appear on the app?,card_linking
+Why was I charged extra on my last UK pound to Russian ruble exchange?,card_payment_wrong_exchange_rate
+The fee charged when I changed rubles into British pounds was too much.,card_payment_wrong_exchange_rate
+My statement shows and extra 1$ that was charged to it and I would like to know why.,extra_charge_on_statement
+I need some help linking my new card.,card_linking
+Can I get an update on my replacement card?,card_arrival
+I have withdrawn cash from the ATM but it is showing in my account as a pending transation. Why is this?,pending_cash_withdrawal
+"I guess exchange rate for my payment was not correct, as i charged extra on the last saturday.",card_payment_wrong_exchange_rate
+"I've been waiting a while for my card, is there a way to know when it will arrive?",card_arrival
+Can you tell me about why the account I have was charged an extra 1$,extra_charge_on_statement
+"my cash withdrawal is pending, why?",pending_cash_withdrawal
+I am travelling and I was wondering what your exchange rates are,exchange_rate
+What do i do if the exchange rate was wrong for the item i bought overseas?,card_payment_wrong_exchange_rate
+Do you offer services that hold money in different types of currency?,fiat_currency_support
+Can I re-link a lost card with the app?,card_linking
+I bought an item at the wrong exchange rate.,card_payment_wrong_exchange_rate
+"My cash withdrawal shows pending, why?",pending_cash_withdrawal
+Please check the exchange rate for my payment last Saturday. I believe I have been overcharged.,card_payment_wrong_exchange_rate
+Why hasn't my withdrawal shown on my statement?,pending_cash_withdrawal
+Does my account have the option to hold multiple currencies?,fiat_currency_support
+"Hello, I tried to take out some money out of the ATM, but it's still showing that it's pending? I really don't want to be charged for this.",pending_cash_withdrawal
+Why is my cash withdrawal still showing as pending?,pending_cash_withdrawal
+What is the fee on my statement for?,extra_charge_on_statement
+Where are you getting your exchange rates from?,exchange_rate
+Why is the exchange rate terrible?  That can't be close to the actual interbank rate.,card_payment_wrong_exchange_rate
+How long until my new card gets here?,card_arrival
+How do I add my card to the app once I get it?,card_linking
+What foreign exchange rate will I get on weekdays and on the weekends?,exchange_rate
+2 weeks ago I ordered my new card.  It isn't here.  What should I do?,card_arrival
+"I got a new card, how do I link it?",card_linking
+"Hello. I looked at my account and see that a transaction I tried to do is pending, but I did not complete that transaction. When I was at the ATM, the machine declined my card. Can you make sure that transaction does not go through because I definitely did not receive the money.",pending_cash_withdrawal
+I would like for someone to tell me which fiat currencies that your company supports.,fiat_currency_support
+What is the extra €1 on my statement for?,extra_charge_on_statement
+It seems that something went wrong with my exchange. I changed Russian Ruble into UK pounds but have been charged entirely too much!,card_payment_wrong_exchange_rate
+Why am I being charged more on exchange with things I bought abroad?,card_payment_wrong_exchange_rate
+Is a tracking number available for the card that was just sent?,card_arrival
+It's been a week since you sent my card and I still don't have it.,card_arrival
+"I want to hold and exchange fiat currencies, what can I use to do so?",fiat_currency_support
+I tried to get cash at some ATM in the city centre earlier but the machine declined my card. I've seen it still shows up as pending in my account. Please cancel it immediately as I definitely have not received that money!,pending_cash_withdrawal
+"Hello, I believe there has been a mistake made on the exchange rate for my card. Could you please check the official interbank exchange rate for me?",card_payment_wrong_exchange_rate
+Do you know what your exchange rates are?,exchange_rate
+I'm still waiting for my new card.,card_arrival
+I don't think the charges made when I had currency exchanged are right.,card_payment_wrong_exchange_rate
+Exchange rate on a purchase was incorrect,card_payment_wrong_exchange_rate
+What is your opinion on the exchange rate?,exchange_rate
+I had to pay a pound more than I anticipated!,extra_charge_on_statement
+"I went to an ATM to get cash, but the app says the withdrawal is still pending. How is that possible when I already have the cash with me?",pending_cash_withdrawal
+How do I link one of your card that I already have?,card_linking
+Are you ripping people off with the exchange rate?  It can't be that atrocious between banks.,card_payment_wrong_exchange_rate
+How is the exchange rate calculated?,exchange_rate
+Can my account have different types of currency in it.,fiat_currency_support
+What are my options for holding money in multiple currencies?,fiat_currency_support
+Why is your exchange rate different on different days?,exchange_rate
+I did not receive the correct amount for the exchange rate.,card_payment_wrong_exchange_rate
+There is an extra small charge on my card! What do I do?,extra_charge_on_statement
+How can I check on the delivery status of my card?,card_arrival
+There is a pending transaction on my account for when I tried to get money from the ATM earlier and it did not work. Can you fix this?,pending_cash_withdrawal
+Which currencies are allowed?,fiat_currency_support
+Why is my cash withdrawal pending?,pending_cash_withdrawal
+How long will the $1 charge show as pending?,extra_charge_on_statement
+"Hello, I have a pending transaction in my account due to an ATM machine that wasn't working. In any case if the transaction goes through, after how long can I get my money back?",pending_cash_withdrawal
+Can I have money in more than one currency in my account?,fiat_currency_support
+The exchange rate applied is wrong for my international purchase.,card_payment_wrong_exchange_rate
+Can I reactivate a card?,card_linking
+I exchanged Russian rubles for British pounds today and got less than I expected. Was exchange rate correct?,card_payment_wrong_exchange_rate
+When will my cash withdrawal show/,pending_cash_withdrawal
+Can you tell me if I can track the card you sent me?,card_arrival
+What will my exchange rate be?,exchange_rate
+What is the expected delivery date for my card?,card_arrival
+I would like to know which fiat currencies are recognized by your organization.,fiat_currency_support
+What's the reason my new card hasn't come?,card_arrival
+"There seems to be an additional charge of £1 on my statement, what is the reason for this?",extra_charge_on_statement
+What exchange rate is it?,exchange_rate
+I took out money from the ATM and it's still showing as pending?,pending_cash_withdrawal
+"In my statement, I got a €1 extra fee.",extra_charge_on_statement
+The amount of exchange was not correct for the item i bought.,card_payment_wrong_exchange_rate
+How do I link the new card?,card_linking
+Why hasn't my card arrived yet?,card_arrival
+How's the exchange rate looking right now?,exchange_rate
+Can you tell me how to get my card on the app?,card_linking
+In my account I noticed my ATM withdrawal is still pending,pending_cash_withdrawal
+How do you calculate exchange rates?,exchange_rate
+why was i charged a small amount,extra_charge_on_statement
+Where is my card?,card_arrival
+How do I track the card you sent to me?,card_arrival
+Do you provide currency exchange to Euros?,fiat_currency_support
+Can you tell me why I haven't received my new card?,card_arrival
+How are the exchange rates determined?,exchange_rate
+Why does my statement have an extra fee?,extra_charge_on_statement
+What currencies can I hold?,fiat_currency_support
+I noticed an extra pound charge?,extra_charge_on_statement
+I still haven't gotten my new card.  When will it get here?,card_arrival
+I wasn't charged the correct exchange rate for an item I purchased.,card_payment_wrong_exchange_rate
+What is the system for determining the exchange rate?,exchange_rate
+Can you make exchanges using the EUR?,fiat_currency_support
+How do I see my card in the app?,card_linking
+Can I have money of different country of origin.,fiat_currency_support
+How do I get my cash withdrawal to show?,pending_cash_withdrawal
+Where can I link a new card?,card_linking
+There is a withdrawal waiting.,pending_cash_withdrawal
+Is my country's currency supported by your system?,fiat_currency_support
+How do you do exchanges?,exchange_rate
+What are you exchange rates?,exchange_rate
+What can I do to track the card you sent me?,card_arrival
+Why was I charged more than I should have been?,extra_charge_on_statement
+There was a problem with the exchange rate on a purchase.,card_payment_wrong_exchange_rate
+How do you determine the exchange rate?,exchange_rate
+I am not seeing recent cash withdrawal on my account.,pending_cash_withdrawal
+I checked on google and the exchange rate you are using is really bad. Can you update it?,card_payment_wrong_exchange_rate
+"I have the cash already, my account still shows up as pending.  How can my account be still pending?",pending_cash_withdrawal
+What is this extra €1 fee about?,extra_charge_on_statement
+There is a strange 1£ charge that appears as pending on my statement. What's the cause for that? I haven't purchased anything for a pound.,extra_charge_on_statement
+The rate applied to my purchase in a foreign currency was wrong.,card_payment_wrong_exchange_rate
+Could I get tracking on the card?,card_arrival
+"There's an extra fee on my statement, why is that?",extra_charge_on_statement
+I'm still waiting for my card that was issued a week ago. What should I do?,card_arrival
+How do I get my card into the app?,card_linking
+What is the status of my card's delivery?,card_arrival
+Is there a way to track the new card you sent me?,card_arrival
+Is the cash withdrawal going to show?,pending_cash_withdrawal
+I recently bought something abroad but the exchange rate is incorrect. Why?,card_payment_wrong_exchange_rate
+Is it possible for me to track the card is was mailed to me?,card_arrival
+There is an extra 1£ charge on my app. Why did you charge me extra?,extra_charge_on_statement
+Do you have the best exchange rate?,exchange_rate
+What does pending mean on a cash withdrawal?,pending_cash_withdrawal
+I think I may have been charged $1 extra on my app.  Could you provide some insight as to why this may have happened?,extra_charge_on_statement
+Why have I not gotten my new card?,card_arrival
+Which flat currencies can I use from you?,fiat_currency_support
+What is the process to link the new card?,card_linking
+What do I need to do to link my new card for my account?,card_linking
+How do your exchange rates factor in?,exchange_rate
+I was overcharged an additional pound.,extra_charge_on_statement
+"I needed cash today, so I used another provider's ATM, and when I attempted to withdraw, it declined. I just checked it out and I'm still showing my account with that amount pending! I didn't take any money out, it was declined, so I don't want that to be processed as a withdrawal.",pending_cash_withdrawal
+What is this fee debit on my account?,extra_charge_on_statement
+"I removed cash from an ATM earlier but it shows up as pending in the app. How can this still be pending, I already received the cash?",pending_cash_withdrawal
+This exchange rate on my purchase is wrong.,card_payment_wrong_exchange_rate
+What are your exchange rates calculated from?,exchange_rate
+"I still haven't received my card after two weeks, is it lost?",card_arrival
+"I recently purchased something, and the exchange rate was wrong.",card_payment_wrong_exchange_rate
+"The exchange rate you're using is terrible - this can't be the official interbank exchange rate, can it?",card_payment_wrong_exchange_rate
+Can you do exchanges of EUR?,fiat_currency_support
+"I recently reported my card as missing/lost, and I just found it. Can I still use it?",card_linking
+"My cash withdrawal says pending, why?",pending_cash_withdrawal
+"I changed the currency, but why is it costing more?",card_payment_wrong_exchange_rate
+Was there a way for me to get tracking for that?,card_arrival
+Why has my withdrawal not posted?,pending_cash_withdrawal
+Does the exchange rate change?,exchange_rate
+"Cash withdrawal has been pending, why is it so?",pending_cash_withdrawal
+I don't have my card after 1 week. What are my next steps?,card_arrival
+"I have one of your cards, but I don't know how to link it.",card_linking
+I recently bought something in foreign currency and I am unsure of the exchange rate. Is this rate applied correctly?,card_payment_wrong_exchange_rate
+Can you explain to me why a cash withdrawal shows up as pending?,pending_cash_withdrawal
+"I'm going on a trip soon and I needed to convert my Russian ruble to UK pounds, but when I did, your company charged me above the exchange rate. Did you mess up my transaction?",card_payment_wrong_exchange_rate
+"I found my card, how can I use it again?",card_linking
+My card hasn't arrived in the mail yet. I ordered it two weeks ago. What can I do?,card_arrival
+How many currencies can I have money in in my account?,fiat_currency_support
+Which currencies will you exchange?,fiat_currency_support
+How do I track the card you sent me?,card_arrival
+I am inquiring about a $1 charge on my statement.,extra_charge_on_statement
+Where can I find the exchange rate for my transfer?,exchange_rate
+Please explain the exchange rates.,exchange_rate
+Can you tell me your exchange rates?,exchange_rate
+Does the fee for exchange change?,card_payment_wrong_exchange_rate
+I checked my account today and saw that I was charged an extra pound that I did not spend.,extra_charge_on_statement
+Looking at my account I've noticed a charge that appears to still be in progress. I had attempted to get money out of the machine earlier but the machine seemed to have been broken. I never received my money so will you please look into this for me? I don't want to be charged for money I never actually received.,pending_cash_withdrawal
+What fiat money can I used in the exchange and holding?,fiat_currency_support
+I noticed that the exchange rate applied to a recent purchase I made abroad was incorrect.,card_payment_wrong_exchange_rate
+I would like to know what exchange rates you use?,exchange_rate
+Why is it showing that my account has been charged a dollar that is showing as pending?,extra_charge_on_statement
+Why was my account assessed a fee?,extra_charge_on_statement
+What do I need to do to get my new card which I have requested 2 weeks ago?,card_arrival
+Why was I charged extra on my app?,extra_charge_on_statement
+I used foreign currency to buy something and I think the rate applied is incorrect.,card_payment_wrong_exchange_rate
+Tell me your opinion on the exchange rate.,exchange_rate
+There is an odd 1£ charge that appears as pending on my statement. What's the reason for that? I haven't purchased anything for a pound.,extra_charge_on_statement
+What is this extra pound charge for?,extra_charge_on_statement
+I already have a card and want to link it,card_linking
+Can you tell me why I haven't received my new card yet?,card_arrival
+The exchange rate was incorrect for an item I bought.,card_payment_wrong_exchange_rate
+Your exchange rates are coming from where?,exchange_rate
+Where in the app do I go to make my new card show up?,card_linking
+Why is there an extra charge on my statement.,extra_charge_on_statement
+Is the exchange rate current?,exchange_rate
+How long does it take to verify a cash withdraw?,pending_cash_withdrawal
+"Hey, I tried to withdraw some cash earlier and it's saying it's pending? Will I be charged for this?",pending_cash_withdrawal
+When will the cash that I put in the ATM be cleared from pending status?,pending_cash_withdrawal
+Why is there an extra fee charged?,extra_charge_on_statement
+How do I go forth on holding money in multiple currencies?,fiat_currency_support
+How are exchange rates determined?,exchange_rate
+Why haven't I received my new card yet?,card_arrival
+What does it mean if my cash withdrawal does not show up properly?,pending_cash_withdrawal
+My card hasn't came in the mail yet?,card_arrival
+How long does it take for a cash withdrawal to show?,pending_cash_withdrawal
+"I got a card, how do I get it in the app?",card_linking
+How do I add my new card?,card_linking
+There's an error in regards to the exchange rate for an item I bought.,card_payment_wrong_exchange_rate
+When did you send me my new card?,card_arrival
+My atm withdraw is stillpending,pending_cash_withdrawal
+How do I link an existing card?,card_linking
+I would like to reactivate a card and wondered if that could be done?,card_linking
+"The card I thought I lost was in my jacket pocket this morning, so can I reactivate that?",card_linking
+Why did a transaction I made charge me $1?,extra_charge_on_statement
+Are there any fiat currencies that you will not work with?,fiat_currency_support
+There has been a charge pending on my account statement that I can't figue out it's for a dollar.,extra_charge_on_statement
+Which fiat currencies are supported for holding and exchanging?,fiat_currency_support
+Why is my cash withdrawal still pending?,pending_cash_withdrawal
+How long will it be to get this new card?,card_arrival
+How do I add an existing card to the app?,card_linking
+"I found my card that I thought I had lost, I need to reactive it, please help.",card_linking
+I think I was charged extra on my payment on last Saturday.  Maybe the exchange rate was wrong?  I'd like a refund.,card_payment_wrong_exchange_rate
+Why did I get a $1 extra fee on the statement?,extra_charge_on_statement
+Its been several days and my cash withdrawal is still pending. Why?,pending_cash_withdrawal
+Is there a reason there's an extra fee on my statement?,extra_charge_on_statement
+"In my statement, there was an extra €1 fee",extra_charge_on_statement
+My purchase used the wrong exchange rate,card_payment_wrong_exchange_rate
+What currencies are available for my use in holding and exchange?,fiat_currency_support
+"A card has been sent to me, how do I track it?",card_arrival
+"I see an extra $1  charge on my statement, why is this?",extra_charge_on_statement
+Is it possible to hold money in different currencies?,fiat_currency_support
+Which fiat currencies are compatible for exchange and holding?,fiat_currency_support
+"I seem to have been charged to much for my holiday purchases, the exchange rate is wrong.",card_payment_wrong_exchange_rate
+the exchange rate is wrong from something I got in another country,card_payment_wrong_exchange_rate
+I have a card that was deactivated can I reactivate it?,card_linking
+An incorrect exchange rate was applied to an item I bought.,card_payment_wrong_exchange_rate
+I ordered a card and would like to know how to track the delivery progress of it.,card_arrival
+I know I'm getting a new card but would like know when I can expect to receive it.,card_arrival
+I just got my card.  It's not linked yet--how do I do that?,card_linking
+"Hello. I have a transaction in my account listed as pending. I tried to use an ATM at the city centre, but the machine declined my card, and I did not receive the money. Why is the transaction still pending if I did not receive the money.",pending_cash_withdrawal
+I took out some cash from the ATM but it is still showing the transaction is pending.,pending_cash_withdrawal
+There is a charge for 1£ on my statement.  I do not think that I bought anything that costed 1£.  What is going on?,extra_charge_on_statement
+Why is there an extra €1 fee in my statement?,extra_charge_on_statement
+Can you let me know why my cash withdrawal is still pending?,pending_cash_withdrawal
+I think that the exchange rate was wrong for the payment made last Saturday - I was charged extra.,card_payment_wrong_exchange_rate
+I was issued a card about a week ago. why hasn't it come in yet?,card_arrival
+What is my money worth in other countries?,exchange_rate
+where do you find your exchange rates?,exchange_rate
+The correct exchange rate wasn't given to me for an item I purchased.,card_payment_wrong_exchange_rate
+I've been charged an extra £1 and I don't know what it's for,extra_charge_on_statement
+How does the exchange rate work on this app?,exchange_rate
+Why does it still charge me even though I was unable to withdraw money from the ATM?,pending_cash_withdrawal
+"I bought something in another currency, but the exchange rate was incorrect.",card_payment_wrong_exchange_rate
+"On my statement, there is a strange 1£ charge that appears as pending. What's causing that? I haven't purchased anything that's just a pound.",extra_charge_on_statement
+I purchased something abroad but the exchange rate is incorrect.,card_payment_wrong_exchange_rate
+Why is there an extra charge of 1 dollar on my statement?,extra_charge_on_statement
+Where do I scan my card?,card_linking
+Will you work with any fiat currencies?,fiat_currency_support
+Why is my exchange rate wrong?,card_payment_wrong_exchange_rate
+Can you change my currency to EUR?,fiat_currency_support
+Can I put my old card back in the app?,card_linking
+I got billed an extra pound!,extra_charge_on_statement
+Shouldn't my new card be here by now?,card_arrival
+After purchasing an item I noticed the exchange rate was incorrect.,card_payment_wrong_exchange_rate
+Why is the exchange rate on my card wrong?,card_payment_wrong_exchange_rate
+How can I solve my issue with holding multiple currencies?,fiat_currency_support
+I believe you charged me too much to exchange my money,card_payment_wrong_exchange_rate
+Can you explain your exchange rates basis?,exchange_rate
+My card appears to have never arrived?,card_arrival
+Do I have a $1 extra fee on the statement?,extra_charge_on_statement
+What does it mean when a cash withdrawal is pending?,pending_cash_withdrawal
+I tried to withdraw cash at an ATM in the city center but my card was declined. The transaction is still showing up as pending - please cancel it!,pending_cash_withdrawal
+How can I make my card show up in the app?,card_linking
+What currencies do you support?,fiat_currency_support
+What are the current exchange rates?,exchange_rate
+How do I add my new card to the app?,card_linking
+My card payment had the wrong exchange rate,card_payment_wrong_exchange_rate
+Is there a tracking number for the card you sent me?,card_arrival
+How long does it take for me to get my new card?,card_arrival
+The cash I got at the ATM is still in my account.,pending_cash_withdrawal
+How can I find out about an extra fee on my statement?,extra_charge_on_statement
+Is there a tracking number for the card?,card_arrival
+"I got my card now, how do I make it show up in the app?",card_linking
+Can I hold more than one currency?,fiat_currency_support
+Why is there a charge for $1 on my account?,extra_charge_on_statement
+I made a cash withdrawal and it is still listed as a pending transaction.,pending_cash_withdrawal
+I was charged $1 in a transaction.,extra_charge_on_statement
+Why was I charged $1 in a transaction?,extra_charge_on_statement
+My payment had a wrong exchange rate.,card_payment_wrong_exchange_rate
+What is the basis of your exchange rates?,exchange_rate
+I was charged extra or a hidden fee when I purchased something from you. What's the deal? I didn't authorize that charge.,extra_charge_on_statement
+Which flat currencies are supported for holding and exchange?,fiat_currency_support
+I still have not received an answer as to why I was charged $1.00 in a transaction?,extra_charge_on_statement
+What factors determine your exchange rate?,exchange_rate
+My account says a withdrawal is pending - why can't I take cash out of the ATM?,pending_cash_withdrawal
+Why did you guys charge me an extra €1?,extra_charge_on_statement
+where is my new card?,card_arrival
+I want to change the wrong exchange rate.,card_payment_wrong_exchange_rate
+Is there a way to link the card i just got?,card_linking
+You sent me a card and now I want to link it.,card_linking
+I need to know what foreign exchange rate I can get.,exchange_rate
+I bought an item that I was charged a different exchange rate for.,card_payment_wrong_exchange_rate
+"Hi, I tried to withdraw some money from an ATM and the machine was broken.  It says that the transaction is still in progress.  Can you double check to see what's happening? I don't want to be charged since I was not able to withdraw the money.",pending_cash_withdrawal
+"The card I thought was lost was just in my jacket, so can I reactivate it since I found it this morning?",card_linking
+"In the exchange and holding, what fiat is allowed?",fiat_currency_support
+how do you get exchange rates,exchange_rate
+"When exchanging, how much are the rates?",exchange_rate
+Will you be adding more currencies in the future?,fiat_currency_support
+Why does my statement show an extra fee?,extra_charge_on_statement
+I noticed the currency exchange rate was incorrect after paying for something in a foreign country.,card_payment_wrong_exchange_rate
+What do I do to link my new card?,card_linking
+Why did they charge me an extra $1?,extra_charge_on_statement
+My payment has an incorrect exchange rate.,card_payment_wrong_exchange_rate
+Can I change or hold different currency?,fiat_currency_support
+The exchange rate was not correct for the item I bought.,card_payment_wrong_exchange_rate
+Is my fiat currency supported for both hold and exchange?,fiat_currency_support
+Can I add a card that I just found (again) to the app?,card_linking
+I would like to know what your exchange rates are.,exchange_rate
+Was there a number to track that I could get?,card_arrival
+What does it mean to have a pending cash withdrawal?,pending_cash_withdrawal
+I made a purchase and was charged at the wrong foreign exchange rate.,card_payment_wrong_exchange_rate
+from where are coming your exchange rates?,exchange_rate
+what was the $1 fee i got,extra_charge_on_statement
+I would like to track the card you sent to me.,card_arrival
+This exchange rate you use is awful! Please tell me this is a mistake and not the official interbank exchange rate!,card_payment_wrong_exchange_rate
+Your foreign exchange rate is wrong.,card_payment_wrong_exchange_rate
+How long does it take for a pending cash withdrawal?,pending_cash_withdrawal
+how do I get my card to show in the app?,card_linking
+"It's been two weeks and I haven't gotten my card, what do I do?",card_arrival
+Is it possible to link a new card?,card_linking
+Why isn't my purchase exchange rate correct?,card_payment_wrong_exchange_rate
+There's an error with the rate that is charged.,card_payment_wrong_exchange_rate
+how can i track card you sent,card_arrival
+Help me access the card I already got so I can information from it.,card_linking
+I found my card again. Can I put it back into the app?,card_linking
+"I heard that you support more than one type of fiat currency, would you tell me which ones please?",fiat_currency_support
+I made a deposit in the ATM and it has not cleared,pending_cash_withdrawal
+"I got cash from an ATM earlier but it shows up as pending in the app. How can this still be pending, I already received the cash?",pending_cash_withdrawal
+What is this $1 charge on my account?,extra_charge_on_statement
+I made a purchase but the exchange rate is wrong?,card_payment_wrong_exchange_rate
+Why has my new card still not come?,card_arrival
+What is the reason my cash withdrawal is still pending?,pending_cash_withdrawal
+There is a pending 1£ charge on my statement.  I haven't purchased anything for 1£.  Why is it on my statement?,extra_charge_on_statement
+What do you use to figure out the exchange rate for the card?,exchange_rate
+How do I add a new card?,card_linking
+"Hi, I am disappointed to see such a bad exchange rate and hope you can assist me. Would you be able to confirm the official interbank exchange rate for me?",card_payment_wrong_exchange_rate
+How do I link a new card to an existing one?,card_linking
+I want to link my new card. Can you help?,card_linking
+"I  have been charged more than I should for the presents I bought  when abroad, the problem seems to be the exchange rate.",card_payment_wrong_exchange_rate
+Where in the app do I link a new card?,card_linking
+I haven't gotten my credit card in the mail.,card_arrival
+What is the expected delivery date of my card?,card_arrival
+Could you tell me what your exchange rates are?,exchange_rate
+I was overcharged a pound.,extra_charge_on_statement
+"I bought something while traveling, and the exchange rate was wrong.",card_payment_wrong_exchange_rate
+My statement is showing an extra £1 charge and I am unsure why. Is there an explanation for this?,extra_charge_on_statement
+I need to know what your exchange rates are.,exchange_rate
+It looks like the exchange rates on my card payment are wrong,card_payment_wrong_exchange_rate
+"My statement shows a 1£ purchase pending. I do not remember making this purchase, please let me know what this is about.",extra_charge_on_statement
+Why on earth is the exchange rate so bad?   Can I get a rate closer to the actual interbank rate?,card_payment_wrong_exchange_rate
+I see a charge of 1L I do not recognize on my statement,extra_charge_on_statement
+What currencies do you offer?,fiat_currency_support
+I  see an extra 1£ charge on my app. Why did It charge me extra?,extra_charge_on_statement
+Will my money be of equal value when I travel abroad?,exchange_rate
+How do I know when my new card is going to arrive?,card_arrival
+"My card arrived but I need to make it work in the app, how do I do that?",card_linking
+Is it possible to reactivate the card I thought I lost but found this morning in my jacket?,card_linking
+I was charged an extra pound for no reason. Why is that?,extra_charge_on_statement
+"I found the card that I thought I lost, and I would like to reactivate it.",card_linking
+My card is no longer lost. How do I enter it back into the app?,card_linking
+Can I link my card I previously received?,card_linking
+What value can I get for my currency?,exchange_rate
+My card hasn't shown up yet.,card_arrival
+My statement is showing I was Charged a dollar and I am not sure why.,extra_charge_on_statement
+I wanted to know about a pending dollar that is on my statement.,extra_charge_on_statement
+why does my statement contain an extra fee?,extra_charge_on_statement
+How can I link the new card?,card_linking
+I'm on holiday and I noticed a different amount for exchange rate.  Can you explain?,card_payment_wrong_exchange_rate
+what are your exchange rates at?,exchange_rate
+What do I do if I still have not received my new card?,card_arrival
+Where did this extra €1 fee on my statement come from?,extra_charge_on_statement
+I think there has been a mistake on my exchange rate for this purchase.,card_payment_wrong_exchange_rate
+Will I have to wait much longer for my new card to arrive?,card_arrival
+Do you have a tracking number for the card I was sent?,card_arrival
+How can I hold and exchange fiat currencies?,fiat_currency_support
+"On the card that is coming, what's the tracking info?",card_arrival
+What type of fiat currencies do you support?,fiat_currency_support
+I found my card! Can I link it back into the app?,card_linking
+I noticed on my online statement that an ATM withdrawal I made early is still pending.  Is this accurate?,pending_cash_withdrawal
+I think something went wrong with my exchange between Russian Ruble and UK pounds. I was overcharged during the swap.,card_payment_wrong_exchange_rate
+My balance is not what I thought it was following an ATM withdrawal,pending_cash_withdrawal
+Can I add a card back to the app?,card_linking
+I was charged the wing amount for an item.,card_payment_wrong_exchange_rate
+something is wrong with my exchange rate charge,card_payment_wrong_exchange_rate
+Why is the exchange rate for my payment incorrect?,card_payment_wrong_exchange_rate
+What are eligible holding and exchange currencies?,fiat_currency_support
+I see I was charged $1 for a transaction.,extra_charge_on_statement
+Is EUR one of the currencies you deal with?,fiat_currency_support
+The item i bought exchanged rate was incorrect.,card_payment_wrong_exchange_rate
+maximum how many days get the courier?,card_arrival
+Where do you get those exchange rates?,exchange_rate
+I made a cash withdrawal earlier and it's showing as pending.  What does that mean?,pending_cash_withdrawal
+Can the card was sen to me be tracked?,card_arrival
+What currency is supported for exchanges and holding?,fiat_currency_support
+How many different currencies can I have my money in?,fiat_currency_support
+How do I link the new card that I just got from you guys?,card_linking
+My new card has not been delivered to my home yet. What is going on?,card_arrival
+I found my old card. Can I link it back into the app?,card_linking
+The exchange rate on my payment doesn't look right,card_payment_wrong_exchange_rate
+Why is the cash withdrawal under pending?,pending_cash_withdrawal
+Your exchange rate was off.  I was charged extra on my payment that I made last Saturday.,card_payment_wrong_exchange_rate
+How do you do currency exchanges?,exchange_rate
+Where does the exchange rate stand right now?,exchange_rate
+Why is the pending status on my cash withdrawal taking so long?,pending_cash_withdrawal
+"How do I know if I will get my card, or if it is lost?",card_arrival
+I still haven't received my card in the mail,card_arrival
+Seems like the exchange rate for my payment last Saturday was wrong. I was charged extra.,card_payment_wrong_exchange_rate
+What's the foreign exchange rate I will receive?,exchange_rate
+There is a €1 extra fee in my statement,extra_charge_on_statement
+There should be a cash withdrawal that I haven't seen yet.,pending_cash_withdrawal
+I bought something and I take issue with the exchange rate applied.,card_payment_wrong_exchange_rate
+"I have a cash withdrawal that says it's pending, why?",pending_cash_withdrawal
+What is the formula for your exchange rate?,exchange_rate
+can I have multiple currencies?,fiat_currency_support
+can I link a card of yours I already have?,card_linking
+My exchange rate was wrong for an Item I bought!,card_payment_wrong_exchange_rate
+I tried to get cash out of the ATM but it is taking too long,pending_cash_withdrawal
+Why did you charge me more for my purchase? It was a foreign currency and you didn't offer market rate,card_payment_wrong_exchange_rate
+I checked my statement and am being charged one pound. Where did this charge come from?,extra_charge_on_statement
+Could you please tell me your exchange rates?,exchange_rate
+I deactivated my card but would like to reactivate it.,card_linking
+Why is the cash withdraw I made shown as pending?,pending_cash_withdrawal
+You did not give me the correct exchange rate for an item that I bought.,card_payment_wrong_exchange_rate
+"I have found my lost or stolen card, would I still have to activate the new card that was sent to me through the mail in order to access my account?",card_linking
+Is there an exchange rate?,exchange_rate
+What method do you use for the exchange rate?,exchange_rate
+I received my card. How do I link it to the app?,card_linking
+Which fiat currencies do you currently support? Will this change in this future?,fiat_currency_support
+I didn't receive my money earlier and it says the transaction is still in progress. Can you fix it?,pending_cash_withdrawal
+what currencies do you accept?,fiat_currency_support
+Where can I find your exchange rates?,exchange_rate
+why hasnt my card come in yet?,card_arrival
+Does the card you sent have a tracking number?,card_arrival
+The exchange rate from my card payment isn't right.,card_payment_wrong_exchange_rate
+I received my new card.  Where is it in the app?,card_linking
+"I received my card, how do I get it to show in the app?",card_linking
+How long before I can see that my cash withdrawal has taken place?,pending_cash_withdrawal
+Can I reactivate my card? I reported it lost and found it this morning in my jacket.,card_linking
+The exchange rate is incorrect on an item I recently purchased in a foreign country.,card_payment_wrong_exchange_rate
+I haven't received my card.,card_arrival
+When will a cash withdrawal show up?,pending_cash_withdrawal
+I need to find the card I received in the app.,card_linking
+Why is the app showing a still pending message on a withdraw that has already been done?,pending_cash_withdrawal
+How long will my ATM withdrawal be pending?,pending_cash_withdrawal
+When did I get a $1 extra fee on my statement?,extra_charge_on_statement
+The exchange rate I was charged for a purchase was not right.,card_payment_wrong_exchange_rate
+Is the 1 pound charge going to be reimbursed on my card?,extra_charge_on_statement
+I need to know which fiat currencies I can use with you.,fiat_currency_support
+how do I link an old card?,card_linking
+Can you change the rate for the item I bought in a different currency as it is wrong?,card_payment_wrong_exchange_rate
+When will I get my new card?,card_arrival
+Where did the  €1 fee in my statement come from,extra_charge_on_statement
+What is the reason for the extra fee on my statement?,extra_charge_on_statement
+"I checked my statement and saw a charge of one pound, where is this charge coming from?",extra_charge_on_statement
+Why was I charged an additional $1?,extra_charge_on_statement
+Please check my payment from last Saturday as I feel I have been overcharged on the exchange rate.  Thank you.,card_payment_wrong_exchange_rate
+Why didn't I receive the correct exchange rate for an item that I purchased?,card_payment_wrong_exchange_rate
+"I thought I lost my card but I found it today, so I would like to reactivate it.",card_linking
+why isnt my cash withdrawal showing,pending_cash_withdrawal
+How do you decide what your exchange rates are?,exchange_rate
+Do you also have this extra fee on your statement?,extra_charge_on_statement
+I bought something in another country but the exchange rate is wrong,card_payment_wrong_exchange_rate
+How do I get my card on the app?,card_linking
+Why is the exchange rate different from what I expected?,card_payment_wrong_exchange_rate
+I purchased something abroad and the incorrect exchange rate was applied.,card_payment_wrong_exchange_rate
+Why is there a $1 charge on my statement?,extra_charge_on_statement
+I think the exchange rate on my card payment is incorrect.,card_payment_wrong_exchange_rate
+What foreign exchange rate will I get?,exchange_rate
+It appears I have a fee in my statement.,extra_charge_on_statement
+Does the package with my card have tracking?,card_arrival
+Why has my deposit in the ATM not cleared yet?,pending_cash_withdrawal
+I made a cash withdrawal at an ATM but it still says pending in my account.,pending_cash_withdrawal
+"I tried to access money earlier but the machine seems not to be working. After looking, the transaction actually shows to still being process. Can you find out what is going on here? I don't want to be charged for some money I never got.",pending_cash_withdrawal
+I found the card I thought I lost this morning. Can I reactivate this card?,card_linking
+Where is my new card if I haven't received it yet?,card_arrival
+how to track the card you sent,card_arrival
+Is there a way to track my card?,card_arrival
+"I just looked at my app and it seems I was charged extra, why is that?",extra_charge_on_statement
+I found my lost card in my jacket pocket this morning so I'd like to reactivate it please.,card_linking
+Is there any way to see my card in the app?,card_linking
+Why is there a fee added to my statement?,extra_charge_on_statement
+why is there a service fee on my statement?,extra_charge_on_statement
+I haven't received my card and am worried it is lost.,card_arrival
+I want to have multiple currencies in my account if possible.,fiat_currency_support
+Why was my exchange rate a different amount than usual?,card_payment_wrong_exchange_rate
+"If I have already completed a cash withdrawal at an ATM, is it normal for it to show as a pending transaction on the app?",pending_cash_withdrawal
+How are cash withdrawals pending?,pending_cash_withdrawal
+My account says I have money but I withdrew it in cash.,pending_cash_withdrawal
+How are foreign exchange rates determined?,exchange_rate
+I see a $1 charge in a transaction.,extra_charge_on_statement
+Was I charged more than I should of been for a currency exchange?,card_payment_wrong_exchange_rate
+I noticed an extra charge on the purchase that I made last Saturday on my account. Can you see if I received the correct exchange rate?,card_payment_wrong_exchange_rate
+Do you have a problem with EUR exchanges?,fiat_currency_support
+"What currencies can I not hold many in, if so what are they?",fiat_currency_support
+I've been charged an extra £1 and I don't know why,extra_charge_on_statement
+Your exchange rates come from where?,exchange_rate
+Please explain your exchange rate policy.,exchange_rate
+The exchange rate you are using is bad.This can't be the official interbank exchange rate.,card_payment_wrong_exchange_rate
+Why has my card been charged an extra pound?,extra_charge_on_statement
+How can I see the progress of delivery of the card that was sent?,card_arrival
+The exchange rate used on your app is really bad. I'm considering closing my account because of it.,card_payment_wrong_exchange_rate
+Where do I go to add a new card?,card_linking
+What exchange rate will I receive?,exchange_rate
+How can I check on the status of my new card?,card_arrival
+What is this extra fee on my statement.,extra_charge_on_statement
+What is your exchange rate between UK pounds and Russian rubles for my last transaction,card_payment_wrong_exchange_rate
+There is a  €1 fee on my account I didn't authorize,extra_charge_on_statement
+"If I need to cash foreign transfers, how does that work?",exchange_rate
+why have i not got my new card?,card_arrival
+"I withdrew some cash, when is it going to show?",pending_cash_withdrawal
+"Last Saturday, I was charged extra for the exchange rate on my payment. Is something wrong?",card_payment_wrong_exchange_rate
+On what do you base your exchange rates?,exchange_rate
+What is the exchange looking like?,exchange_rate
+The cash I deposited using the ATM is still pending,pending_cash_withdrawal
+I finally got my card.  Now I want to link it.  Is that something you have to do or can I do that?,card_linking
+Can I link your physical card,card_linking
+I ordered my card but it hasn't been delivered yet,card_arrival
+How long does it take for a new card to ship?,card_arrival
+How can I find your exchange rates?,exchange_rate
+"I'm interested in using fiat currencies, which do you support?",fiat_currency_support
+How much are the rates of exchange?,exchange_rate
+What is the exchange rate for EUR?,exchange_rate
+What country's money can I hold currency in?,fiat_currency_support
+How long will it take for my cash withdrawal to no longer show as pending?,pending_cash_withdrawal
+I was able to find my card. How to I go about putting it into my app?,card_linking
+I'm still waiting on my new card to be delivered!,card_arrival
+I ordered my card but it still isn't here,card_arrival
+Do you support other currencies?,fiat_currency_support
+What does a pending cash withdrawal mean?,pending_cash_withdrawal
+How did you guys get your exchange rate?,exchange_rate
+Can I add a card to back into the app?,card_linking
+Can you please reactivate my card?,card_linking
+Why was I charged a higher exchange rate when I bought something abroad?,card_payment_wrong_exchange_rate
+How do I know how much money I will have when I travel abroad?,exchange_rate
+The exchange rate looks wrong on a holiday purchase,card_payment_wrong_exchange_rate
+Why is the exchange rate different on my recent purchase?,card_payment_wrong_exchange_rate
+Why is there a pending hold on one pound on my statement?,extra_charge_on_statement
+"I'm pretty frustrated about a pound charge that keeps  showing up in my account statement. It's listed in the app as ""pending"", it never changes, and now I'm thinking someone's hacked my account!",extra_charge_on_statement
+"There is an extra charge on my account I didn't authorise, it's just £1, what is it?",extra_charge_on_statement
+What are the exchange rates?,exchange_rate
+I'm interested in what your exchange rates are based on.,exchange_rate
+Why is there an extra fee on my statement?,extra_charge_on_statement
+My last ATM request did not go through due to a declined card. Please cancel the request on my account.,pending_cash_withdrawal
+"I want to reactivate my card, I thought I had lost it but I found it.",card_linking
+Do you have support for flat currencies?,fiat_currency_support
+Am I able to track the card that was just sent to me?,card_arrival
+It's been a week since you issued me a card and I still didn't get it. Should I keep waiting?,card_arrival
+I don't see my card anywhere in the app.,card_linking
+"I just got a card, how can I add it to the app?",card_linking
+Is my new bank card on the way and is there a way to track it?,card_arrival
+explain the interbank exchange rate,exchange_rate
+I need to know which flat currencies are supported by you.,fiat_currency_support
+Where is the tracking number for the card?,card_arrival
+How do I link my card in the app.,card_linking
+The machine didn't work earlier when I went to get money out and now my account says transaction in progress.Why?,pending_cash_withdrawal
+The currency exchange for my purchase in foreign currency is incorrect.,card_payment_wrong_exchange_rate
+"Hae there, I have a transaction that is in progress despite the fact that the ATM was not working, what do I do to avoid being charged?",pending_cash_withdrawal
+"So earlier I went to an ATM and got cash. But when I checked the app, it states that the withdrawal is pending. How can that be when I have the cash on me?",pending_cash_withdrawal
+Can I track the card that was just sent to me?,card_arrival
+I think the currency exchange that's been applied is wrong.,card_payment_wrong_exchange_rate
+"Hello, I tried to take some cash out of the ATM but I looked at my statement and it still shows that it's pending. Is the machine broken? Will I receive my money back or will I be charged for this?",pending_cash_withdrawal
+Is there a way I can check on the card on route to me?,card_arrival
+If I have a credit card with you how I get set up to link to it?,card_linking
+"I received my card, how do I get it to work in the app?",card_linking
+What do you think of the exchange rate?,exchange_rate
+How do i go about linking a new card?,card_linking
+"When I look at my statement there is an extra fee, that is for what?",extra_charge_on_statement
+What's the card you sent me's tracking number?,card_arrival
+Do you deal with EUR?,fiat_currency_support
+can you share card tracking number?,card_arrival
+Is it possible to hold money in multiple currencies?,fiat_currency_support
+The exchange rate for my card payment doesn't seem right.,card_payment_wrong_exchange_rate
+I have been waiting over a week. Is the card still coming?,card_arrival
+What kind of fiat currencies are supported for holding and exchange?,fiat_currency_support
+How do I add a card on to the app?,card_linking
+Can I track my card while it is in the process of delivery?,card_arrival
+I need a list of currencies you accept for exchange.,fiat_currency_support
+I was using a foreign currecy to make a payment and the applied the wrong rate.,card_payment_wrong_exchange_rate
+What is the dollar that I have pending on my statement there?,extra_charge_on_statement
+Will I be able to track the card that was sent to me?,card_arrival
+Will you be able to exchange to EUR?,fiat_currency_support
+"What's go on, where is my new card?",card_arrival
+What fiat currencies are used for exchange?,fiat_currency_support
+Can you make exchanges with the EUR?,fiat_currency_support
+"May I reactivate my card? I previously reported it lost, but have now found it safe and sound.",card_linking
+Why was the exchange rate so wrong when I bought something!,card_payment_wrong_exchange_rate
+Is there a way I can get my card expedited?,card_arrival
+"If my cash withdrawal is still not showing, is something wrong?",pending_cash_withdrawal
+How do the foreign exchange rates work?,exchange_rate
+What are all the fiat currencies that are supported for both exchange and holding?,fiat_currency_support
+I bought something abroad and the exchange rate applied is wrong,card_payment_wrong_exchange_rate
+Why is my withdrawal from the ATM still showing as pending?,pending_cash_withdrawal
+I am still waiting on my card?,card_arrival
+An extra pound was charged!,extra_charge_on_statement
+Why is there an additional fee showing on the statement I received?,extra_charge_on_statement
+"I tried to get some with-drawls but the machine didn't work. The transaction still seems in progress.Seems like  something is wrong,I don't want to be charged for Transaction i did not make.",pending_cash_withdrawal
+Why am I being charged the wrong currency exchange when I purchased something abroad?,card_payment_wrong_exchange_rate
+My currency rate is inaccurate.,card_payment_wrong_exchange_rate
+I found my card. How can I put it into my app?,card_linking
+Please list what fiat currencies are supported for both holding and exchanging.,fiat_currency_support
+How long should it take for my new card to arrive in them mail? What should I do if I never receive it?,card_arrival
+I feel as though I have been over charged for the exchange rate on my payment on last Saturday.,card_payment_wrong_exchange_rate
+If I have a physical card can I link it?,card_linking
+Should I keep waiting for my card to be delivered?,card_arrival
+The exchange rate was incorrect for this item I bought.,card_payment_wrong_exchange_rate
+"There is an unexplained $1 charge on my statement, can you please explain this to me?",extra_charge_on_statement
+my exchange rate looks wrong for my last payment,card_payment_wrong_exchange_rate
+Has my card been lost in delivery?,card_arrival
+Are you okay with exchanges to EUR?,fiat_currency_support
+What types of foreign money can be used with this service.?,fiat_currency_support
+Does this app have the same exchange rate as third parties?,exchange_rate
+Can you tell me the names of the fiat currencies that I can use at your institution?,fiat_currency_support
+What am I being charged an extra pound when I haven't bought something worth that much?,extra_charge_on_statement
+"I thought I lost my card so I cancelled it, but recently I found it in my jacket and I would like to re-establish the card.",card_linking
+The $1.00 has still not been reverted as indicated in the previous email.,extra_charge_on_statement
+Can you show me where to link the new card?,card_linking
+How are your exchange rates calculated?,exchange_rate
+Will I need a new card or can I put my old card back into the app?,card_linking
+Why have I been charged an extra pound?,extra_charge_on_statement
+Can I have multiple currencies in my account?,fiat_currency_support
+Why is the cash transaction still showing as not completed?,pending_cash_withdrawal
+There is a 1£ charge that appears as pending on my statement. What is that? I haven't purchased anything for a pound there.,extra_charge_on_statement
+My exchange rate isn't correct.,card_payment_wrong_exchange_rate
+What currencies can my account be in?,fiat_currency_support
+Can I exchange currency to Europe?,fiat_currency_support
+I was expecting my new card by now.,card_arrival
+I got some cash in the ATM but its still pending,pending_cash_withdrawal
+Why do i have an extra fee on my statement?,extra_charge_on_statement
+I was wrongfully charged one pound.,extra_charge_on_statement
+"When I used one of the ATMs in the city centre today, I tried to take out some money, but for whatever reason, the machine declined my card. Just checked it out in my account and that amount is still showing as pending! Is there any way that you can cancel this transaction, because I did not receive any money whatsoever from the ATM",pending_cash_withdrawal
+"There's a €1 fee on my statement, why?",extra_charge_on_statement
+Is the EUR accepted for exchanges?,fiat_currency_support
+"I looked at my statement, and there is a charge for 1£ that I don't recognize.  Why is it on there?",extra_charge_on_statement
+What factors effect the exchange rate?,exchange_rate
+My exchange seems to have something wrong with it. I changed over Russian Ruble to UK pounds and it appears I was charged way more than I was supposed to be.,card_payment_wrong_exchange_rate
+If my card was lost or stolen can I re-link it?,card_linking
+Can I track the card that you sent me in the mail?,card_arrival
+What do I do if I already had a card with you guys?,card_linking
+Do you know when the withdrawal will show?,pending_cash_withdrawal
+"Hello, I'm having trouble with my card, I don't understand what's happening, I tried using the ATM machine earlier but it wasn't working but seems like the transactions is still in progress, can you cancel it for me?",pending_cash_withdrawal
+Why is a transaction still pending?,pending_cash_withdrawal
+Is there a reason my new card hasn't arrived yet?,card_arrival
+"I purchased something while traveling, and the exchange rate applied was wrong.",card_payment_wrong_exchange_rate
+Can you track my card for me?,card_arrival
+Why i'm I being charged an extra pound,extra_charge_on_statement
+Why do I see an extra £1 charge on my statement?,extra_charge_on_statement
+"lost card found, want to put it back in app",card_linking
+I would like to know why a withdraw I made for some cash shows up as pending.,pending_cash_withdrawal
+There is a pending payment on my account that is very strange. I don't remember making this and it won't go away. Can you help me figure this out?,extra_charge_on_statement
+I want to know your exchange rates.,exchange_rate
+Explain pending transactions.,pending_cash_withdrawal
+I need some help figuring out what this strange payment is on my account. It's stays pending and won't go away.,extra_charge_on_statement
+How do you determine your exchange rates?,exchange_rate
+Which fiat currencies are supported by you?,fiat_currency_support
+"I have a strange transaction for £1 on my statement, what is that?",extra_charge_on_statement
+"I just saw the exchange rate you use, but it's so bad that I can't believe that it's the official interbank exchange rate! Is this truly the official interbank exchange rate?",card_payment_wrong_exchange_rate
+There is a charge for an additional pound.,extra_charge_on_statement
+Does the exchange rate change each day for purchases? There is a different rate on my purchase.,card_payment_wrong_exchange_rate
+Is there a way to track the delivery of my card?,card_arrival
+How do I link a new card in the app?,card_linking
+Can you please explain to me why there is an extra €1 fee in my statement?,extra_charge_on_statement
+"In regards to my card payment, the exchange rate is incorrect.",card_payment_wrong_exchange_rate
+Is the 1 pound charge I can see an error or an incorrect entry?,extra_charge_on_statement
+My card has not come in the mail yet.,card_arrival
+"Do you hold money and if so, what currencies do you accept?",fiat_currency_support
+"When I bought something abroad, the exchange rate was wrong.",card_payment_wrong_exchange_rate
+What is the present state of the exchange rate?,exchange_rate
+"Show me how to link the new card,",card_linking
+How do I make my card show up in the app?,card_linking
+I do not know why I was charged for the $1 transaction.,extra_charge_on_statement
+I want to find out what happened to my new card?,card_arrival
+What types of fiduciary currencies are supported for tenure and exchange?,fiat_currency_support
+What does the €1 fee mean?,extra_charge_on_statement
+What is a pending cash withdrawal?,pending_cash_withdrawal
+"I would like to re-activate my card, it was previously reported  lost but I found it this morning.",card_linking
+I have no idea why there is a dollar that has been charged to my account.,extra_charge_on_statement
+They used the wrong rate when I made a purchase with foreign currency.,card_payment_wrong_exchange_rate
+How long until I see a cash withdrawal?,pending_cash_withdrawal
+Is the exchange rate the same on weekends as the weekdays?,exchange_rate
+I withdrew cash but it still shows as pending?,pending_cash_withdrawal
+how do i get the card linked,card_linking
+withdrawal pending meaning?,pending_cash_withdrawal
+Why would a cash withdrawal be pending?,pending_cash_withdrawal
+"Hi there, earlier today I tried to take money out of an ATM machine, and something wasn't working.  I didn't actually receive the money, but I just checked and it says that the transaction is still pending.  Can you tell me what's going on here? Am I still being charged for the withdrawal even though I didn't end up getting any money?",pending_cash_withdrawal
+How many different currencies can I hold money in?,fiat_currency_support
+I need to find out where the card is that I ordered.,card_arrival
+I bought an item then noticed the exchange rate was wrong.,card_payment_wrong_exchange_rate
+The exchange rate for my payment last Saturday must be wrong because I was charged extra.,card_payment_wrong_exchange_rate
+I have a withdrawal waiting to go through.,pending_cash_withdrawal
+I want my card I just received to show up in the app. How do I do that?,card_linking
+"I purchased something abroad, and the exchange rate that was applied was wrong.",card_payment_wrong_exchange_rate
+What exchange rates do you use?,exchange_rate
+What are the fiat currencies used?,fiat_currency_support
+"Hello, there seems to be a billing mistake associated with my account.  My app was charged $1 more than it should have.  Could you please explain why this may have happened?",extra_charge_on_statement
+"My card was supposed to arrive, but hasn't?",card_arrival
+"I want to link to my card card with you, how?",card_linking
+What's the expected wait time to recieve my new card?,card_arrival
+I made a cash withdraw and it shows up as pending why is that?,pending_cash_withdrawal
+My ATM withdrawal is taking forever,pending_cash_withdrawal
+I have been charged an extra pound!,extra_charge_on_statement
+Exchange rate for my card payment is wrong,card_payment_wrong_exchange_rate
+"When I was traveling abroad, the exchange rate was applied wrong.",card_payment_wrong_exchange_rate
+My card isn't here yet.,card_arrival
+are multiple currencies acceptable?,fiat_currency_support
+My card hasn't arrived.,card_arrival
+Why is my ATM withdrawal still pending?,pending_cash_withdrawal
+"I found my card, am I able to put it back into the app?",card_linking
+I think there was an error in your exchange rate.,card_payment_wrong_exchange_rate
+How much longer until I get my new card?,card_arrival
+Why is there a €1 charge on my statement?,extra_charge_on_statement
+"I need a card reactivation, I had reported my card lost but I ran across it in my jacket.",card_linking
+"I want to reactivate my card, I found it after thinking it was lost.",card_linking
+Have you sent out my card yet?,card_arrival
+"My account says there are pending funds right now from withdrawing from an ATM, but my card was declined and I never took out any money. When will that money be deposited back into my account?",pending_cash_withdrawal
+What's the tracking on the card you sent?,card_arrival
+Do you allow exchanges of EUR?,fiat_currency_support
+Is there a specific source that the exchange rate for the transfer I'm planning on making is pulled from?,exchange_rate
+Do you allow currency exchanges?,fiat_currency_support
+"My withdrawal is pending, why?",pending_cash_withdrawal
+i havent got my card,card_arrival
+my cash withdrawal has not come out of my account yet.,pending_cash_withdrawal
+Why do I see an extra fee on my statement?,extra_charge_on_statement
+how long until a cash withdrawal will show on my account,pending_cash_withdrawal
+I had a dollar charged to my account that's still pending and wanted to know what the charge is for?,extra_charge_on_statement
+Can exchanged be made to EUR?,fiat_currency_support
+When will I recieve my new card?,card_arrival
+What other currencies can I hang onto?,fiat_currency_support
+I was charged an extra pound.,extra_charge_on_statement
+How can I exchange to EUR?,fiat_currency_support
+The exchange rate is incorrect for something I bought,card_payment_wrong_exchange_rate
+What was the $1 charge for on my statement?,extra_charge_on_statement
+Is there a reason why there is an extra £1 charge on my account?,extra_charge_on_statement
+Is my card lost? I am still waiting for it to be delivered.,card_arrival
+How do I link my new card?,card_linking
+Why would there be an extra charge on my app?,extra_charge_on_statement
+My card hasn't arrived yet. What do I do?,card_arrival
+How long does it typically take for a pending ATM withdrawal to clear?,pending_cash_withdrawal
+Please tell me which fiat currencies you support.,fiat_currency_support
+Are EUR exchanges acceptable?,fiat_currency_support
+the exchange rate at which my card payment is at is wrong,card_payment_wrong_exchange_rate
+"I need to hold money, what currencies can I use?",fiat_currency_support
+"Okay, I found my card, can I put it back in the app?",card_linking
+Why is my withdrawl to cash still pending?,pending_cash_withdrawal
+How are the exchange rates for transfers calculated?,exchange_rate
+Can I activate a card in the app?,card_linking
+Please cancel the latest ATM charge on my card as my card was declined earlier today and I did not receive that cash.,pending_cash_withdrawal
+How long does it take to recieve my new card?,card_arrival
+How do I activate and link my new card?,card_linking
+"The transaction for the cash I pulled out of the ATM earlier is pending in the app, but how if I already have the cash?",pending_cash_withdrawal
+I don't have my card in 1 week.  Should I be worried?,card_arrival
+I would like to reactivate my card that I previously reported lost. I located the card this morning.,card_linking
+Help me figure out how to link the new card.,card_linking
+How is an exchange rate calculated?,exchange_rate
+I was charged an extra dollar on my account and would like to know the reason.,extra_charge_on_statement
+Is it okay to hold money in multiple currencies?,fiat_currency_support
+My card payment has the wrong exchange rate,card_payment_wrong_exchange_rate
+Could you send me and up date on the arrival of my card?,card_arrival
+What should I do if I see a withdrawal is pending?,pending_cash_withdrawal
+Where can I get your exchange rates from?,exchange_rate
+"If I ordered my new card last week, how much longer should I wait to receive it?",card_arrival
+Will I know which exchange rate I will get?,exchange_rate
+how long will my cash withdrawal be pending for?,pending_cash_withdrawal
+There is  an extra 1£ charge on my app. Why did it charge me extra?,extra_charge_on_statement
+Why was I charged an extra pound?,extra_charge_on_statement
+Can you tell me why I was charged $1 for a transaction?,extra_charge_on_statement
+The wrong exchange rate was used when I purchased an item.,card_payment_wrong_exchange_rate
+I was charged the wrong exchange rate on a purchase,card_payment_wrong_exchange_rate
+"I just received a new card, where do I go to link it to my account?",card_linking
+"Hey, I got charged extra for some reason when I purchased an app. Is this a hidden fee or something? I don't think it's very cool.",extra_charge_on_statement
+I purchased something overseas and the incorrect exchange rate was applied.,card_payment_wrong_exchange_rate
+Why is there an extra pound charge that is pending?,extra_charge_on_statement
+Can you please tell me why my cash withdrawal is still pending?,pending_cash_withdrawal
+"I've obtained the card, how do I enable it on the app?",card_linking
+What if I want to add a card I already have to the app?,card_linking
+Why does a cash withdrawal show as pending?,pending_cash_withdrawal
+When I purchased a product in another country the currency exchange was incorrect.,card_payment_wrong_exchange_rate
+"found card, how to put it back in app",card_linking
+I received the wrong exchange rate for an item i bought.,card_payment_wrong_exchange_rate
+Are you able to make exchanges to EUR?,fiat_currency_support
+i need to know about exchange rates,exchange_rate
+I need to know what these extra charges are on my statement?,extra_charge_on_statement
+Are EUR exchanges allowed?,fiat_currency_support
+What flat currencies do you use for holding and exchanges.,fiat_currency_support
+Why does my transaction have an added fee?,extra_charge_on_statement
+I wondered if multiple currencies is okay?,fiat_currency_support
+My card still hasn't been delivered,card_arrival
+My card has been found. Is there any way for me to put it back into the app?,card_linking
+I need to track the card sent to me.,card_arrival
+How long will my cash withdrawal take,pending_cash_withdrawal
+How come there is a $1 extra charge on my statement?,extra_charge_on_statement
+I'm still waiting for my card.,card_arrival
+"My card has not been delivered yet and its been a week since I ordered it, please help",card_arrival
+My client was converting their Russian ruble into UK pound currency when they noticed their bill was much too high for the exchange. What happened?,card_payment_wrong_exchange_rate
+What currencies can I exchange?,fiat_currency_support
+There is some odd 1£ charge that appears as pending on my statement. What's that about? Pretty sure I haven't purchased anything for a pound there.,extra_charge_on_statement
+Why have I been charged an extra £1?,extra_charge_on_statement
+My new card hasn't came in.,card_arrival
+"I want to reactivate my card, I thought I had lost it but found it again in my jacket.",card_linking
+"I've been waiting for 3 days, why is my withdrawal still pending?",pending_cash_withdrawal
+How do I reactivate a card I thought I lost?,card_linking
+"I want to reactivate my card, I thought I had lost it but found it again this morning.",card_linking
+How is the exchange rate doing?,exchange_rate
+How do I link a new payment card?,card_linking
+Why has another fee been placed on my statement?,extra_charge_on_statement
+What is the current exchange rate?,exchange_rate
+Can I exchange my money for EUR?,fiat_currency_support
+How long will it take for my cash withdrawal to stop pending,pending_cash_withdrawal
+Why do I see an extra €1 charge on my statement?,extra_charge_on_statement
+Are all fiat currencies supported?,fiat_currency_support
+I question today's exchange rate for rubles into pounds. I was hoping for a better return.,card_payment_wrong_exchange_rate
+Do you know the rate of exchange?,exchange_rate
+$1 charge in transaction.,extra_charge_on_statement
+What fiat currencies can I use for holding and exchanging?,fiat_currency_support
+Why did you charge me extra?,extra_charge_on_statement
+Please tell me the types of currency I can hold.,fiat_currency_support
+"Now that I have my card, how do I connect it to the app?",card_linking
+My rate of exchange was wrong.,card_payment_wrong_exchange_rate
+How is my ATM deposit not available yet?,pending_cash_withdrawal
+What are the exchange rates you assign?,exchange_rate
+The exchange rate is bad. Are you sure this is the exchange rate?,card_payment_wrong_exchange_rate
+Am I able to track a card that has already been sent?,card_arrival
+I had to pay one pound more than the set price!,extra_charge_on_statement
+I would like to know how exchange rates are calculated when transferring funds.,exchange_rate
+I was charged extra. Was the exchange rate for my payment last Saturday wrong?,card_payment_wrong_exchange_rate
+What's the process for exchanges?,exchange_rate
+Can you please tell me where my card is? I ordered it 2 weeks ago!,card_arrival
+The exchange rate you are using is really bad.This can't be the official interbank exchange rate.,card_payment_wrong_exchange_rate
+Why was the exchange wrong for the item I purchased?,card_payment_wrong_exchange_rate
+Can you convert to EUR?,fiat_currency_support
+What are Interbanks current exchange rates?,exchange_rate
+How can I track my card's delivery?,card_arrival
+WHAT IS THE SOLUTION OF THIS PROBLEM,card_arrival
+The currency exchange rate was wrong for a purchase I made.,card_payment_wrong_exchange_rate
+A foreign purchase I made has the incorrect rate applied to it.,card_payment_wrong_exchange_rate
+What fiat currencies do you allow exchange with?,fiat_currency_support
+Why haven't I gotten my new card?,card_arrival
+my cash out is still pending,pending_cash_withdrawal
+Is there a way to link cards if I have one of yours?,card_linking
+I would like to link my card to my account.,card_linking
+Have have a small charge on my account from someone I purchased with but I'm not sure what it relates to.,extra_charge_on_statement
+I found my lost card. Am I still able to use it?,card_linking
+I haven't gotten my new card.,card_arrival
+Do you convert to Euro?,fiat_currency_support
+Please explain the charge of 1L in error.  I have purchased nothing in this amount.,extra_charge_on_statement
+How do you find the exchange rate?,exchange_rate
+"I'm interested in holding and exchange for flat currencies, what do you support?",fiat_currency_support
+"Card has been received, how will it show up on the app?",card_linking
+How do you determine exchange rates?,exchange_rate
+How many currencies can I have?,fiat_currency_support
+"I tried to take out some money from an ATM earlier today and it was declined. Looking on my screen now, I still see that it's pending for that amount. I didn't actually get that money, so I don't want it processed on my account.",pending_cash_withdrawal
+Why was the wrong rate applied when I bought something in a different currency?,card_payment_wrong_exchange_rate
+What is the extra fee on my statement?,extra_charge_on_statement
+What can I do if my card still hasn't arrived after 2 weeks?,card_arrival
+I was made to pay an additional pound!,extra_charge_on_statement
+"Hello, I see that I have been charged an extra $1 on my app.  Could you please provide me with a reason for this charge?",extra_charge_on_statement
+i withdrew cash and dont see it reflected on the balance,pending_cash_withdrawal
+Is there any reason my cash withdrawal still shows as pending?,pending_cash_withdrawal
+"I do not understand why there is a pending 1£ charge on my statement, I do not recall making this transaction. Can you please tell me what this is about?",extra_charge_on_statement
+Can you please explain why the exchange rate for the item I bought is wrong?,card_payment_wrong_exchange_rate
+"I tried to withdraw money, but was unable to. Still says that the transaction is pending? Will this money disappear??",pending_cash_withdrawal
+An extra fee of €1 was in my statement,extra_charge_on_statement
+Can you help me track my card?,card_arrival
+It's been a week since I ordered my card and it's not here. Please help?,card_arrival
+I purchased an item and the exchange rate was wrong,card_payment_wrong_exchange_rate
+What does it mean if my cash withdrawal is pending?,pending_cash_withdrawal
+Can I track the card you sent to me?,card_arrival
+Where do I go to get my new card linked?,card_linking
+I am not receiving the correct exchange rate on my card.,card_payment_wrong_exchange_rate
+What currencies can I have?,fiat_currency_support
+I bough an item and the exchange rate was incorrect.,card_payment_wrong_exchange_rate
+What fiat currencies are supported?,fiat_currency_support
+The exchange rate that was applied for an international purchase was wrong.,card_payment_wrong_exchange_rate
+How do I add the card I just received to show up in the app?,card_linking
+What flat currencies do you support for holding and exchange?,fiat_currency_support
+Why did I get charged one pound seemingly randomly?,extra_charge_on_statement
+I got a €1 extra fee in my statement,extra_charge_on_statement
+How do you decide what the exchange rates are?,exchange_rate
+Why is your exchange rate so bad?,card_payment_wrong_exchange_rate
+I'd like to know what the foreign exchange rate will be.,exchange_rate
+When will my new card arrive?,card_arrival
+Why is there a 1 euro fee on my statement?,extra_charge_on_statement
+It seems that the rate I got is incorrect.,card_payment_wrong_exchange_rate
+What is an exchange rate?,exchange_rate
+How come there is an extra fee on my statement?,extra_charge_on_statement
+"I tempted to get some money out of the machine earlier and it did not work.Looking now, the transaction actually shows to still be in progress. I would certainly appreciate someone look into this and let me know what's going on. I definitely do not want to be charged for money I never received.",pending_cash_withdrawal
+Are there limitations to what currency I can hold?,fiat_currency_support
+How long will it take for me to get my card?,card_arrival
+My account shows up as pending after I received cash from the ATM earlier.  How can this be still pending? I've got the cash already.,pending_cash_withdrawal
+"I have not received my card and it's been a week, what do I do?",card_arrival
+How's the exchange rate?,exchange_rate
+"My card still hasn't arrived after two weeks, now what?",card_arrival
+What fiat currencies are used with holdings and exchanges?,fiat_currency_support
+I am seeing and extra 1$ charged to my account and wanted to know about it.,extra_charge_on_statement
+How long will a cash withdrawal be pending?,pending_cash_withdrawal
+What is this random charge of one pound doing on my account?,extra_charge_on_statement
+I am being charged the wrong amount on my card.,card_payment_wrong_exchange_rate
+What kind of money can I hold?,fiat_currency_support
+Can I put my found card back into the app on my phone?,card_linking
+I'm concerned because my cash withdrawal is pending.,pending_cash_withdrawal
+I was overcharged one extra pound!,extra_charge_on_statement
+Is there a reason my new card hasn't arrived?,card_arrival
+"So much time has gone by, the pending status shouldn't still be there shouldn't it?",pending_cash_withdrawal
+"I was supposed to receive my new card by now, but it hasn't came in.",card_arrival
+if i found a lost card can i put it back in app,card_linking
+My new card isn't here and it was issued a week ago.,card_arrival
+Are you sure this is the interbank exchange rate? This rate is really bad.,card_payment_wrong_exchange_rate
+"In the app, how can I make it show the new card that arrived?",card_linking
+Do you support fiat currencies?,fiat_currency_support
+Am I allowed to hold money in multiple currencies?,fiat_currency_support
+My statement contained a one pound extra fee,extra_charge_on_statement
+How do I know what the exchange rate will be when I make an exchange.,exchange_rate
+I have been overcharged. I just changed over Russian Ruble to UK pounds and it was too much. It seems something was wrong with my exchange.,card_payment_wrong_exchange_rate
+How are exchange rates calculated at this bank?,exchange_rate
+Why is my cash still pending that I put in ATM?,pending_cash_withdrawal
+My cash withdrawal shows as pending still.,pending_cash_withdrawal
+What fiduciary currencies are supported for tenure and exchange?,fiat_currency_support
+the exchange rate on my payment was wrong,card_payment_wrong_exchange_rate
+"The exchange rate given to me after a purchase, was incorrect",card_payment_wrong_exchange_rate
+"I have been charged to much for the object I bought when abroad, the exchange rate seems to be wrong.",card_payment_wrong_exchange_rate
+Do you have EUR currency available for me?,fiat_currency_support
+How do I reactivate my card?,card_linking
+Where is my credit card that was to be mailed?,card_arrival
+The exchange rate is incorrect for my payment.,card_payment_wrong_exchange_rate
+Can you tell me how many currencies I can hold?,fiat_currency_support
+Why do I still have a pending cash withdrawal?,pending_cash_withdrawal
+I'd like to know what you guys look at to decide an exchange rate,exchange_rate
+"I Withdrew cash from an ATM earlier but it shows up as pending in the app. How can this still be pending, I received the cash already?",pending_cash_withdrawal
